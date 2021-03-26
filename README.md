@@ -1,5 +1,8 @@
 Check Luhn
 ===========
+![Crates.io](https://img.shields.io/crates/v/checkluhn)
+[![Documentation](https://docs.rs/checkluhn/badge.svg)](https://docs.rs/checkluhn/0.0.1/checkluhn/fn.validate.html)
+
 [![Build Status](https://travis-ci.com/marirs/checkluhn-rs.svg?branch=main)](https://travis-ci.com/marirs/checkluhn-rs)
 
 Validate the Luhn algorithm for the given string.
