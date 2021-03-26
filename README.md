@@ -1,5 +1,6 @@
 Check Luhn
 ===========
+[![Build Status](https://travis-ci.com/marirs/checkluhn-rs.svg?branch=main)](https://travis-ci.com/marirs/checkluhn-rs)
 
 Validate the Luhn algorithm for the given string.
 
